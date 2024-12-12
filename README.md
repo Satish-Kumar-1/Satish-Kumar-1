@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Large Language Models (LLMs) and Generative AI (GenAI). I hold a Ph.D. in Mathematics from IIT BHU and am actively seeking opportunities as an ML or GenAI Engineer.
+I am currently working on Large Language Models (LLMs) and Generative AI (GenAI). I hold a Ph.D. in Mathematics from IIT BHU and am actively seeking opportunities as an ML or AI Engineer.
 
 
 ## 🌐 Socials:
